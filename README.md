@@ -12,7 +12,7 @@ Todo List application built with React, utilizing the Context API for state mana
 
 1. Clone the repository:
 
-   ```sh
+```sh
    git clone https://github.com/your-username/todo-manager.git
    cd todo-manager
    ```
